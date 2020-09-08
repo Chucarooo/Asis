@@ -1,0 +1,20 @@
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\bin\Debug\ABMAsistencia.exe
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\bin\Debug\ABMAsistencia.pdb
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\bin\Debug\ABMAsistencia.xml
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.exe
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.xml
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.pdb
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.exe
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.xml
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.pdb
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\bin\Debug\ABMAsistencia.exe
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\bin\Debug\ABMAsistencia.pdb
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\bin\Debug\ABMAsistencia.xml
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.Form1.resources
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.Resources.resources
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
